@@ -1,0 +1,124 @@
+Topic - Fundamentals
+What is Serialization object graph ?
+Java Why Serialization? http://www.oracle.com/technetwork/articles/java/javaserial-1536170.html 
+Explain memory Optionmization using stack, Heap, Data strutures? http://www.journaldev.com/4098/java-heap-space-vs-stack-memory
+Efforts required to shift JDK 1.8 from JDK lower versions
+What is loader and its type in Java?
+List java 1.7 features 1.8 features?
+Annotations are present in which package ?
+
+Java use of volatile and where you have used ? done
+Explain Serialization deserialization? How to serialize and deserialize objects in java? done
+How can you break singleton class? done
+Singleton class with synchronised? done
+How to make Singleton class as cloneable? done
+How can you achieve thread safety in singleton class? done http://www.journaldev.com/171/thread-safety-in-java-singleton-classes-with-example-code
+What is Singleton lazy initialisation? done
+Explain Singleton with multithreading (synchronised)? done
+Explain Singleton with Bill Pugh? done
+Expalin Singleton with serializable ? done
+What is the difference between Inheritance and Aggregation? done
+----- done ----
+Shallow copy vs deep copy in java? done
+What is transient and volatile(keywords) variables? done
+Explain Boxing and auto boxing ? done
+What are marker interfaces in java? name them and why is it used? done
+What is the diff between encapusalation and abstraction ? done
+Difference between final and finally and finalize? done
+How jvm is platform dependent? done
+What is Immutable and mutable? done
+How to create user defined immutable object? done
+What is Immutable class ? https://javaranch.com/journal/2003/04/immutable.htm done
+How you write an immutable class ? done
+List object class methods? done
+tell me abt oops concepts? done
+What is Polymorphism in Java? https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html done
+What is Agrregation and composition in java? http://stackoverflow.com/questions/11881552/implementation-difference-between-aggregation- and-composition-in-java done
+How internally the garbage collection works done
+Explain accessspecifiers and modifiers? done
+Can there be multiple public class in single source file? done
+
+
+Topic - Threads
+How to achive multi-Threading with static methods and non static methods?
+Explain synchronization and how to achieve it?
+Difference between process and thread?
+Return value after thread execution 
+What is thread local?
+Explain methods notify ,and wait?
+What is diff sleep and wait?
+What is object level and class lever synchronization?
+
+What are the types of thread locking?
+
+Topic - Collections
+What it means if hashcode returns 1 constantly?
+What is concurrent modification exception?
+Explain iterators provided in java?
+What are the implementation classes of collections?
+What type of utility methods are provided by Collections class?
+10 Employee object stored hashset with same id how to solve this situation ?
+Explain sorting in reverese order in Collection?
+What is underlying data structure used for LinkedHashSet?
+How the location of Map.Entry table is determined with the help of HashCode?
+What is generics in java? https://docs.oracle.com/javase/tutorial/java/generics/why.html
+Write your own custom or generic class?
+Convert array to ArrayList & array list to array?
+How to sort empoyee ArrayList using comparator or comparable?
+Java Internal working of ArrayList? https://netjs.blogspot.com/2015/08/how-ArrayList-works-internally-in-java.html
+
+What is comparable and comparator in java? https://javarevisited.blogspot.com/2011/06/comparator-and-comparable-in-java.html
+
+How set prevents the duplicate values?
+What is hashtable ?
+Explain TreeSet working?
+Explain Hashing mechanism?
+How to make collection read only? http://javarevisited.blogspot.in/2012/07/create-read-only-list-map-set-example-java.html
+How Hashset work internally?
+Explain Hashing collision?
+How to make an ArrayList synchronized?
+How hashmap handles null values?
+How Hashmap Internally works? http://javarevisited.blogspot.in/2011/02/how-hashmap-works-in-java.html
+How concurrent hashmap works internally?
+Explain map and hashmap iteration?
+
+What is the diff between araylist and vector?
+What is the diff between set and list?
+What is the diff between hashmap and hash table?
+What is the diff between collection & Collections?
+What is the diff between treeset and hashset ?
+What is the diff between ArrayList vs linkedlist ?
+What is the diff between hashmap and concurrent hashmap?
+What is the diff between HashMap and HashTable?
+
+
+Topic - Exception Handling
+What are checked and unchecked Exceptions?
+What is the use of Error class? 
+What to do if out of memory error occurs 
+Exception in hierarchy?
+What happen if we return false from finallly block?
+What is exeception propagation?
+Can we thriw unchecked exception? 
+What can you do about exception in interfaces?
+How to create user-defined exception explain? How to print stack-trace of user-defined exception?
+Try catch finally against return statement?
+Try catch with instanceof?
+
+Topic - Java 8
+Lambda 
+Streams 
+Diff between java 7 and java 8
+
+Topic - Abstract classes and interfaces
+Explain Abstract classes and interfaces?
+Abstract class implement interface?
+When to use abstract and when to use interface(*)?
+
+Topic - Strings
+String heap pool 
+In Java which objects are Immutable? String class & All Wrapper Objects are immutable.
+Why String is immutable or final in Java?
+Difference between StringBuffer and StringBuilder?
+String intern method? https://javarevisited.blogspot.com/2015/12/when-to-use-intern-method-of-string-in-java.html
+

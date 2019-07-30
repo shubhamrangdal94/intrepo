@@ -1,0 +1,127 @@
+1. What is IOC (or Dependency Injection)? 
+2. What are the different types of IOC (dependency injection) ? 
+3. What are the benefits of IOC (Dependency Injection)?
+4. What is Spring ?
+5. What are the advantages of Spring framework?
+6. What are features of Spring ?
+7. How many modules are there in Spring? What are they?
+8. What are the types of Dependency Injection Spring supports?>
+9. What is Bean Factory ?
+10. What is Application Context?
+11. What is the difference between Bean Factory and Application Context ?  
+12. What are the common implementations of the Application Context ?
+13. How is a typical spring implementation look like ?
+14.  What is the typical Bean life cycle in Spring Bean Factory Container ?
+15. What do you mean by Bean wiring ?
+16. What do you mean by Auto Wiring?
+17. What is DelegatingVariableResolver?
+18. How to integrate  Java Server Faces (JSF) with Spring?
+19. What is  Java Server Faces (JSF) - Spring integration mechanism?
+•	Is there a standard JavaServer Faces managed bean definition for this variable name? If so, invoke it in the usual way, and return the bean that was created.
+•	Is there configuration information for this variable name in the Spring WebApplicationContext for this application? If so, use it to create and configure an instance, and return that instance to the caller.
+20. What is Significance of JSF- Spring integration ?
+21. How to integrate your Struts application with Spring?  
+22. What are ORM’s Spring supports ? 
+23. What are the ways to access Hibernate using Spring ?
+24. How to integrate Spring and Hibernate using HibernateDaoSupport?
+25. What are Bean scopes in Spring Framework ?
+26. What is AOP?
+27. How the AOP used in Spring?
+28. What do you mean by Aspect ?
+29. What do you mean by JointPoint?
+30. What do you mean by Advice?
+31. What are the types of Advice?
+32. What are the types of the transaction management Spring supports ?
+33. What are the benefits of the Spring Framework transaction management ?
+34.  Why most users of the Spring Framework choose declarative transaction management ?
+35. When to use programmatic and declarative transaction management ?
+36. Explain about the Spring DAO support ?
+37. What are the exceptions thrown by the Spring DAO classes ?
+38. What is SQLExceptionTranslator ?
+39. What are the differences between EJB and Spring ?
+
+
+Soap vs rest
+Jason to object and vise versa
+Web server vs application server
+Factory pattern
+Git workflow 
+Forward vs redirect 
+Get, post, put, delete
+Request entity vs response body
+Controller vs restcontroller 
+Jwt token 
+Exception handling with controller advice and response entity 
+IOC
+Spring singleton scope
+Spring autowire options 
+Test cases
+Spring Boot Architecture 
+@component 
+@service
+Sorting
+Spring boot architecture in our environment
+
+https://docs.spring.io/spring/docs/3.0.0.M3/reference/html/ch04s04.html#beans-factory-scopes-other-injection
+How to use multiple database using spring JPA
+Spring IOC vs DI
+Spring How Autowiring work?
+Sping How Spring MVC work?
+Spring While Serialization how we can achive singletone class in Spring?
+Spring documentation Self https://docs.spring.io/spring/docs/current/spring-framework-reference/index.html
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+																				RANDOM QUESTIONS
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Executor service 
+Exception handling in spring mvc 
+diff statement and prepard
+servlet life cycle
+what are the jsp implcid object
+what is diff jsp dirctive incule and jsp:include
+diff bw sendRedirect and forward
+wat is orm
+wat is callstack interface in hibernate
+wat is proxy class in hibernate
+how u build sessionfactory
+what is sessionfactory and what is session
+what is lazy loading in hibernate
+what are hibernate isolation levels
+wat is optins in hibernate(cascade,fetch,invers)
+tell me da fectchin stratagis
+abt inhiritance in hibernate
+catching technique in hibernate
+how  u maintain connetionn pool in hibernate
+wat is m-m mapping how u configuer
+tel me abt criteria, criterion
+wat is the adavantage of orm 
+how many types of injections are available in sping
+bean scopes
+wiring 
+diff between beanfactoy and applicationcontext
+implementations of applicationcontext
+explain me bean life cycle in spring
+wat is rule dat a class must satisfy to configue in spring.xml
+how ur writing url DAO Class
+what is hibernateDAOsupport
+what is AOP
+wat is aspect,jointpoint,pointcut
+how  u confiure pointcuts
+explain the sping mvc control flow
+what is bind exception
+wat is command name and command class in spring.xml
+what happen if we use autowire and injections same time
+Can you list out all design patterns used in Hibernate frame work?
+how to retrive {}{}{} disticnt values from 3 arrays
+how will you iterate ArrayList in jsp
+can we have instance variables in servlet
+is servlet has a state?
+what is a state of an object in oops
+how will you handle json in spring
+how will you return xml in spring
+how to handle transaction using 2 database in hibernate
