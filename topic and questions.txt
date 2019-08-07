@@ -122,3 +122,38 @@ Why String is immutable or final in Java?
 Difference between StringBuffer and StringBuilder?
 String intern method? https://javarevisited.blogspot.com/2015/12/when-to-use-intern-method-of-string-in-java.html
 
+/////////// ADDITION //////////////
+Java From GeeksForGeeks (https://www.geeksforgeeks.com)
+
+JVM
+JVM Stack Area 
+Does JVM create object of Main class?
+JDBC Drivers
+Is main method compulsory in Java?
+Using predefined class name as Class or Variable name in Java
+-------------------------------------------------- X OVERVIEW X ------------------------------------------------------------------
+
+Variables
+Scope of Variables
+Bounded Type Parameters
+Decision Making(if, if-else, switch, break, continue, jump)
+Widening Primitive Conversion 
+Type conversion in Java
+Interesting facts about null in Java
+-------------------------------------------------- X BASICS X ------------------------------------------------------------------
+
+Inheritance
+Shadowing of static functions in Java
+Encapsulation
+Abstraction
+Association,Composition and Aggregation
+this
+Overloading
+Can we Overload or Override static methods in java ?
+Method overloading and null error in Java
+Shadowing of static functions in Java
+Static methods vs Instance methods in Java
+Covariant return types
+Static blocks in Java
+instance initializer block in java(non-static block)
+-------------------------------------------------- X OOPS X ------------------------------------------------------------------
