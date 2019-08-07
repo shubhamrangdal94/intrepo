@@ -157,3 +157,22 @@ Covariant return types
 Static blocks in Java
 instance initializer block in java(non-static block)
 -------------------------------------------------- X OOPS X ------------------------------------------------------------------
+
+------------------------------------------------- BNY -------------------------------------------------------------------------
+Quick sort
+merge sort
+Explain one scenario where quick sort fails
+Time complexities (best, worse and average) of quick and merge sort
+
+
+A prime number through which hash function will be more efficient?
+How hash method is implemented in Map?
+
+Java Reflection
+JMS
+
+Git:
+Cherry pick
+Rebase vs merge
+------------------------------------------------- BNY -------------------------------------------------------------------------
+
